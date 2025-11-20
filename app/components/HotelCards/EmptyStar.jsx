@@ -1,0 +1,12 @@
+export const EmptyStar = () => (
+  <svg width="16" height="15" viewBox="0 0 16 15" fill="none">
+    <path
+      d="M7.66667 1L9.72667 5.17333L14.3333 5.84667L11 9.09333L11.7867 13.68L7.66667 11.5133L3.54667 13.68L4.33333 9.09333L1 5.84667L5.60667 5.17333L7.66667 1Z"
+      fill="#fffff"
+      stroke="#FDE370"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+  </svg>
+);
